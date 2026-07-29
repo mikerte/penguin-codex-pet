@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Changed
+
+- Relicensed the complete repository under the MIT License
+
 ## [0.1.0] - 2026-07-29
 
 ### Added

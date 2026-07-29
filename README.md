@@ -85,6 +85,9 @@ owner-approved update.
 
 ## License
 
-Copyright © 2026 Mihaly Kertesz. All rights reserved.
-See [LICENSE](LICENSE) and
-[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Pingo is released under the [MIT License](LICENSE). Anyone may use, copy,
+modify, publish, distribute, sublicense, or sell the repository's code,
+documentation, pet artwork, animation assets, and previews under its terms.
+
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for separately licensed
+third-party material.

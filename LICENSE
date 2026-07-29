@@ -1,17 +1,21 @@
-Pingo Codex Pet
+MIT License
+
 Copyright (c) 2026 Mihaly Kertesz
-All rights reserved.
 
-This repository and its contents, including source code, documentation,
-artwork, animation frames, previews, and packaged pet assets, are proprietary.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-No permission is granted to copy, modify, redistribute, publish, sublicense,
-sell, or create derivative works from this repository or its contents without
-prior written permission from the repository owner.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Access to a private copy, or public visibility on GitHub, does not grant any
-additional rights beyond those required by GitHub to operate its service.
-
-`CODE_OF_CONDUCT.md` is adapted from the Contributor Covenant and remains
-subject to the attribution terms described in that file. Third-party software,
-services, and dependencies remain subject to their own licenses and terms.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
