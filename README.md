@@ -4,6 +4,12 @@ Pingo is a soft, semi-realistic Emperor Penguin chick pet for Codex. The
 package includes smooth animations, sixteen look directions, and the complete
 Codex v2 spritesheet.
 
+## In Codex
+
+![Pingo in the Codex pet panel](previews/pingo-in-codex.png)
+
+## Animation sheet
+
 ![Pingo animation sheet](previews/contact-sheet.png)
 
 ## Features
